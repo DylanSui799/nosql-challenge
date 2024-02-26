@@ -1,4 +1,6 @@
 # nosql-challenge
+
+I worked with AskBCS, tutors, classmates, and online resources throughout this assignment. 
  
 Before You Begin
 Create a new repository for this project called nosql-challenge. Do not add this homework to an existing repository.
